@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:132()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:1" ;
     skos:prefLabel "Boa Vista"@por-Latn ;
-    wdata:q7200235 "CV01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -61,7 +59,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:10" ;
     skos:prefLabel "Ribeira Grande de Santiago"@por-Latn ;
-    wdata:q7200235 "CV10" ;
 .
 
 <urn:mdciii:1603:16:132:1:11>
@@ -70,7 +67,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:11" ;
     skos:prefLabel "Sal"@por-Latn ;
-    wdata:q7200235 "CV11" ;
 .
 
 <urn:mdciii:1603:16:132:1:12>
@@ -79,7 +75,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:12" ;
     skos:prefLabel "Santa Catarina"@por-Latn ;
-    wdata:q7200235 "CV12" ;
 .
 
 <urn:mdciii:1603:16:132:1:13>
@@ -88,7 +83,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:13" ;
     skos:prefLabel "Santa Catarina Do Fogo"@por-Latn ;
-    wdata:q7200235 "CV13" ;
 .
 
 <urn:mdciii:1603:16:132:1:14>
@@ -97,7 +91,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:14" ;
     skos:prefLabel "Santa Cruz"@por-Latn ;
-    wdata:q7200235 "CV14" ;
 .
 
 <urn:mdciii:1603:16:132:1:15>
@@ -106,7 +99,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:15" ;
     skos:prefLabel "Sao Domingos"@por-Latn ;
-    wdata:q7200235 "CV15" ;
 .
 
 <urn:mdciii:1603:16:132:1:16>
@@ -115,7 +107,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:16" ;
     skos:prefLabel "Sao Filipe"@por-Latn ;
-    wdata:q7200235 "CV16" ;
 .
 
 <urn:mdciii:1603:16:132:1:17>
@@ -124,7 +115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:17" ;
     skos:prefLabel "Sao Lourenco Dos Orgaos"@por-Latn ;
-    wdata:q7200235 "CV17" ;
 .
 
 <urn:mdciii:1603:16:132:1:18>
@@ -133,7 +123,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:18" ;
     skos:prefLabel "Sao Miguel"@por-Latn ;
-    wdata:q7200235 "CV18" ;
 .
 
 <urn:mdciii:1603:16:132:1:19>
@@ -142,7 +131,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:19" ;
     skos:prefLabel "Sao Salvador Do Mundo"@por-Latn ;
-    wdata:q7200235 "CV19" ;
 .
 
 <urn:mdciii:1603:16:132:1:2>
@@ -151,7 +139,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:2" ;
     skos:prefLabel "Brava"@por-Latn ;
-    wdata:q7200235 "CV02" ;
 .
 
 <urn:mdciii:1603:16:132:1:20>
@@ -160,7 +147,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:20" ;
     skos:prefLabel "Sao Vicente"@por-Latn ;
-    wdata:q7200235 "CV20" ;
 .
 
 <urn:mdciii:1603:16:132:1:21>
@@ -169,7 +155,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:21" ;
     skos:prefLabel "Tarrafal"@por-Latn ;
-    wdata:q7200235 "CV21" ;
 .
 
 <urn:mdciii:1603:16:132:1:22>
@@ -178,7 +163,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:22" ;
     skos:prefLabel "Tarrafal De Sao Nicolau"@por-Latn ;
-    wdata:q7200235 "CV22" ;
 .
 
 <urn:mdciii:1603:16:132:1:3>
@@ -187,7 +171,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:3" ;
     skos:prefLabel "Maio"@por-Latn ;
-    wdata:q7200235 "CV03" ;
 .
 
 <urn:mdciii:1603:16:132:1:4>
@@ -196,7 +179,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:4" ;
     skos:prefLabel "Mosteiros"@por-Latn ;
-    wdata:q7200235 "CV04" ;
 .
 
 <urn:mdciii:1603:16:132:1:5>
@@ -205,7 +187,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:5" ;
     skos:prefLabel "Paul"@por-Latn ;
-    wdata:q7200235 "CV05" ;
 .
 
 <urn:mdciii:1603:16:132:1:6>
@@ -214,7 +195,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:6" ;
     skos:prefLabel "Porto Novo"@por-Latn ;
-    wdata:q7200235 "CV06" ;
 .
 
 <urn:mdciii:1603:16:132:1:7>
@@ -223,7 +203,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:7" ;
     skos:prefLabel "Praia"@por-Latn ;
-    wdata:q7200235 "CV07" ;
 .
 
 <urn:mdciii:1603:16:132:1:8>
@@ -232,7 +211,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:8" ;
     skos:prefLabel "Ribeira Brava"@por-Latn ;
-    wdata:q7200235 "CV08" ;
 .
 
 <urn:mdciii:1603:16:132:1:9>
@@ -241,6 +219,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:1:9" ;
     skos:prefLabel "Ribeira Grande"@por-Latn ;
-    wdata:q7200235 "CV09" ;
 .
 

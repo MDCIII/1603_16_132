@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:132()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:101" ;
     skos:prefLabel "Santa Isabel"@por-Latn ;
-    wdata:q7200235 "CV0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -71,7 +69,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1001" ;
     skos:prefLabel "Santissimo Nome De Jesus"@por-Latn ;
-    wdata:q7200235 "CV1001" ;
 .
 
 <urn:mdciii:1603:16:132:2:1003>
@@ -80,7 +77,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1003" ;
     skos:prefLabel "Sao Joao Baptista"@por-Latn ;
-    wdata:q7200235 "CV1003" ;
 .
 
 <urn:mdciii:1603:16:132:2:102>
@@ -89,7 +85,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:102" ;
     skos:prefLabel "Sao Joao Baptista"@por-Latn ;
-    wdata:q7200235 "CV0102" ;
 .
 
 <urn:mdciii:1603:16:132:2:1101>
@@ -98,7 +93,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1101" ;
     skos:prefLabel "Nossa Senhora Das Dores"@por-Latn ;
-    wdata:q7200235 "CV1101" ;
 .
 
 <urn:mdciii:1603:16:132:2:1201>
@@ -107,7 +101,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1201" ;
     skos:prefLabel "Santa Catarina"@por-Latn ;
-    wdata:q7200235 "CV1201" ;
 .
 
 <urn:mdciii:1603:16:132:2:1301>
@@ -116,7 +109,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1301" ;
     skos:prefLabel "Santa Catarina Do Fogo"@por-Latn ;
-    wdata:q7200235 "CV1301" ;
 .
 
 <urn:mdciii:1603:16:132:2:1401>
@@ -125,7 +117,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1401" ;
     skos:prefLabel "Santiago Maior"@por-Latn ;
-    wdata:q7200235 "CV1401" ;
 .
 
 <urn:mdciii:1603:16:132:2:1501>
@@ -134,7 +125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1501" ;
     skos:prefLabel "Nossa Senhora Da Luz"@por-Latn ;
-    wdata:q7200235 "CV1501" ;
 .
 
 <urn:mdciii:1603:16:132:2:1502>
@@ -143,7 +133,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1502" ;
     skos:prefLabel "Sao Nicolau Tolentino"@por-Latn ;
-    wdata:q7200235 "CV1502" ;
 .
 
 <urn:mdciii:1603:16:132:2:1601>
@@ -152,7 +141,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1601" ;
     skos:prefLabel "Nossa Senhora Da Conceicao"@por-Latn ;
-    wdata:q7200235 "CV1601" ;
 .
 
 <urn:mdciii:1603:16:132:2:1602>
@@ -161,7 +149,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1602" ;
     skos:prefLabel "Sao Lourenco"@por-Latn ;
-    wdata:q7200235 "CV1602" ;
 .
 
 <urn:mdciii:1603:16:132:2:1701>
@@ -170,7 +157,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1701" ;
     skos:prefLabel "Sao Lourenco Dos Orgaos"@por-Latn ;
-    wdata:q7200235 "CV1701" ;
 .
 
 <urn:mdciii:1603:16:132:2:1801>
@@ -179,7 +165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1801" ;
     skos:prefLabel "Sao Miguel Arcanjo"@por-Latn ;
-    wdata:q7200235 "CV1801" ;
 .
 
 <urn:mdciii:1603:16:132:2:1901>
@@ -188,7 +173,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:1901" ;
     skos:prefLabel "Sao Salvador Do Mundo"@por-Latn ;
-    wdata:q7200235 "CV1901" ;
 .
 
 <urn:mdciii:1603:16:132:2:2001>
@@ -197,7 +181,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:2001" ;
     skos:prefLabel "Nossa Senhora Da Luz"@por-Latn ;
-    wdata:q7200235 "CV2001" ;
 .
 
 <urn:mdciii:1603:16:132:2:201>
@@ -206,7 +189,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:201" ;
     skos:prefLabel "Nossa Senhora Do Monte"@por-Latn ;
-    wdata:q7200235 "CV0201" ;
 .
 
 <urn:mdciii:1603:16:132:2:202>
@@ -215,7 +197,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:202" ;
     skos:prefLabel "Sao Joao Baptista"@por-Latn ;
-    wdata:q7200235 "CV0202" ;
 .
 
 <urn:mdciii:1603:16:132:2:2101>
@@ -224,7 +205,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:2101" ;
     skos:prefLabel "Santo Amaro Abade"@por-Latn ;
-    wdata:q7200235 "CV2101" ;
 .
 
 <urn:mdciii:1603:16:132:2:2201>
@@ -233,7 +213,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:2201" ;
     skos:prefLabel "Sao Francisco De Assis"@por-Latn ;
-    wdata:q7200235 "CV2201" ;
 .
 
 <urn:mdciii:1603:16:132:2:301>
@@ -242,7 +221,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:301" ;
     skos:prefLabel "Nossa Senhora Da Luz"@por-Latn ;
-    wdata:q7200235 "CV0301" ;
 .
 
 <urn:mdciii:1603:16:132:2:401>
@@ -251,7 +229,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:401" ;
     skos:prefLabel "Nossa Senhora Da Ajuda"@por-Latn ;
-    wdata:q7200235 "CV0401" ;
 .
 
 <urn:mdciii:1603:16:132:2:501>
@@ -260,7 +237,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:501" ;
     skos:prefLabel "Santo Antonio Das Pombas"@por-Latn ;
-    wdata:q7200235 "CV0501" ;
 .
 
 <urn:mdciii:1603:16:132:2:601>
@@ -269,7 +245,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:601" ;
     skos:prefLabel "Santo Andre"@por-Latn ;
-    wdata:q7200235 "CV0601" ;
 .
 
 <urn:mdciii:1603:16:132:2:602>
@@ -278,7 +253,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:602" ;
     skos:prefLabel "Sao Joao Baptista"@por-Latn ;
-    wdata:q7200235 "CV0602" ;
 .
 
 <urn:mdciii:1603:16:132:2:701>
@@ -287,7 +261,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:701" ;
     skos:prefLabel "Nossa Senhora Da Graca"@por-Latn ;
-    wdata:q7200235 "CV0701" ;
 .
 
 <urn:mdciii:1603:16:132:2:801>
@@ -296,7 +269,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:801" ;
     skos:prefLabel "Nossa Senhora Da Lapa"@por-Latn ;
-    wdata:q7200235 "CV0801" ;
 .
 
 <urn:mdciii:1603:16:132:2:802>
@@ -305,7 +277,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:802" ;
     skos:prefLabel "Nossa Senhora Do Rosario"@por-Latn ;
-    wdata:q7200235 "CV0802" ;
 .
 
 <urn:mdciii:1603:16:132:2:901>
@@ -314,7 +285,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:901" ;
     skos:prefLabel "Nossa Senhora Do Livramento"@por-Latn ;
-    wdata:q7200235 "CV0901" ;
 .
 
 <urn:mdciii:1603:16:132:2:902>
@@ -323,7 +293,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:902" ;
     skos:prefLabel "Nossa Senhora Do Rosario"@por-Latn ;
-    wdata:q7200235 "CV0902" ;
 .
 
 <urn:mdciii:1603:16:132:2:903>
@@ -332,7 +301,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:903" ;
     skos:prefLabel "Santo Crucifixo"@por-Latn ;
-    wdata:q7200235 "CV0903" ;
 .
 
 <urn:mdciii:1603:16:132:2:904>
@@ -341,6 +309,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:132:2:904" ;
     skos:prefLabel "Sao Pedro Apostolo"@por-Latn ;
-    wdata:q7200235 "CV0904" ;
 .
 

@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Boa Vista"@por-Latn ;
-    wdata:q7200235 "CV01" ;
+    wdata:Q7200235 "CV01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -66,7 +66,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Ribeira Grande de Santiago"@por-Latn ;
-    wdata:q7200235 "CV10" ;
+    wdata:Q7200235 "CV10" ;
 .
 
 <urn:mdciii:1603:16:132:1:11>
@@ -77,7 +77,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Sal"@por-Latn ;
-    wdata:q7200235 "CV11" ;
+    wdata:Q7200235 "CV11" ;
 .
 
 <urn:mdciii:1603:16:132:1:12>
@@ -88,7 +88,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Santa Catarina"@por-Latn ;
-    wdata:q7200235 "CV12" ;
+    wdata:Q7200235 "CV12" ;
 .
 
 <urn:mdciii:1603:16:132:1:13>
@@ -99,7 +99,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Santa Catarina Do Fogo"@por-Latn ;
-    wdata:q7200235 "CV13" ;
+    wdata:Q7200235 "CV13" ;
 .
 
 <urn:mdciii:1603:16:132:1:14>
@@ -110,7 +110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Santa Cruz"@por-Latn ;
-    wdata:q7200235 "CV14" ;
+    wdata:Q7200235 "CV14" ;
 .
 
 <urn:mdciii:1603:16:132:1:15>
@@ -121,7 +121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Sao Domingos"@por-Latn ;
-    wdata:q7200235 "CV15" ;
+    wdata:Q7200235 "CV15" ;
 .
 
 <urn:mdciii:1603:16:132:1:16>
@@ -132,7 +132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Sao Filipe"@por-Latn ;
-    wdata:q7200235 "CV16" ;
+    wdata:Q7200235 "CV16" ;
 .
 
 <urn:mdciii:1603:16:132:1:17>
@@ -143,7 +143,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Sao Lourenco Dos Orgaos"@por-Latn ;
-    wdata:q7200235 "CV17" ;
+    wdata:Q7200235 "CV17" ;
 .
 
 <urn:mdciii:1603:16:132:1:18>
@@ -154,7 +154,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Sao Miguel"@por-Latn ;
-    wdata:q7200235 "CV18" ;
+    wdata:Q7200235 "CV18" ;
 .
 
 <urn:mdciii:1603:16:132:1:19>
@@ -165,7 +165,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:19" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Sao Salvador Do Mundo"@por-Latn ;
-    wdata:q7200235 "CV19" ;
+    wdata:Q7200235 "CV19" ;
 .
 
 <urn:mdciii:1603:16:132:1:2>
@@ -176,7 +176,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Brava"@por-Latn ;
-    wdata:q7200235 "CV02" ;
+    wdata:Q7200235 "CV02" ;
 .
 
 <urn:mdciii:1603:16:132:1:20>
@@ -187,7 +187,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:20" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Sao Vicente"@por-Latn ;
-    wdata:q7200235 "CV20" ;
+    wdata:Q7200235 "CV20" ;
 .
 
 <urn:mdciii:1603:16:132:1:21>
@@ -198,7 +198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:21" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Tarrafal"@por-Latn ;
-    wdata:q7200235 "CV21" ;
+    wdata:Q7200235 "CV21" ;
 .
 
 <urn:mdciii:1603:16:132:1:22>
@@ -209,7 +209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:22" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Tarrafal De Sao Nicolau"@por-Latn ;
-    wdata:q7200235 "CV22" ;
+    wdata:Q7200235 "CV22" ;
 .
 
 <urn:mdciii:1603:16:132:1:3>
@@ -220,7 +220,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Maio"@por-Latn ;
-    wdata:q7200235 "CV03" ;
+    wdata:Q7200235 "CV03" ;
 .
 
 <urn:mdciii:1603:16:132:1:4>
@@ -231,7 +231,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Mosteiros"@por-Latn ;
-    wdata:q7200235 "CV04" ;
+    wdata:Q7200235 "CV04" ;
 .
 
 <urn:mdciii:1603:16:132:1:5>
@@ -242,7 +242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Paul"@por-Latn ;
-    wdata:q7200235 "CV05" ;
+    wdata:Q7200235 "CV05" ;
 .
 
 <urn:mdciii:1603:16:132:1:6>
@@ -253,7 +253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Porto Novo"@por-Latn ;
-    wdata:q7200235 "CV06" ;
+    wdata:Q7200235 "CV06" ;
 .
 
 <urn:mdciii:1603:16:132:1:7>
@@ -264,7 +264,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Praia"@por-Latn ;
-    wdata:q7200235 "CV07" ;
+    wdata:Q7200235 "CV07" ;
 .
 
 <urn:mdciii:1603:16:132:1:8>
@@ -275,7 +275,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Ribeira Brava"@por-Latn ;
-    wdata:q7200235 "CV08" ;
+    wdata:Q7200235 "CV08" ;
 .
 
 <urn:mdciii:1603:16:132:1:9>
@@ -286,6 +286,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:132:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:132:0> ;
     skos:prefLabel "Ribeira Grande"@por-Latn ;
-    wdata:q7200235 "CV09" ;
+    wdata:Q7200235 "CV09" ;
 .
 
